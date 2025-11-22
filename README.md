@@ -64,8 +64,11 @@ Instalasi & Menjalankan
 📁 Struktur Proyek travel-assistant-bot/
 │
 ├── app.py                # File utama Streamlit
+
 ├── requirements.txt      # Dependency Python
+
 ├── README.md             # Dokumentasi ini
+
 └── screenshots/          # Folder screenshot UI (opsional)
 
 🔑 Teknologi yang Digunakan
@@ -81,6 +84,7 @@ Instalasi & Menjalankan
     2.Upload gambar ke Gemini API
     3.Mengirim prompt + gambar ke model
     4.Mendapat jawaban berdasarkan analisis visual + konteks teks
+
 
 
 
