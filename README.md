@@ -40,6 +40,7 @@ Bot akan menganalisis gambar dan menjawab berdasarkan isinya.
 - Hasil chat bisa disimpan dan dibaca kembali.
 
 Instalasi & Menjalankan
+
 1️⃣ Clone repo git clone https://github.com/username/travel-assistant-bot.git
     cd travel-assistant-bot
 2️⃣ Install dependencies
@@ -71,3 +72,4 @@ Instalasi & Menjalankan
     2.Upload gambar ke Gemini API
     3.Mengirim prompt + gambar ke model
     4.Mendapat jawaban berdasarkan analisis visual + konteks teks
+
