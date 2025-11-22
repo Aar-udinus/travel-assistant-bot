@@ -1,6 +1,11 @@
 🌍 Travel Assistant Bot
 
 Chatbot Perjalanan Berbasis Gemini 2.5 Flash dengan UI Elegan + Multimodal (Gambar)
+<img src ="https://github.com/Aar-udinus/travel-assistant-bot/blob/main/llm1.png">
+
+<img src="https://github.com/Aar-udinus/travel-assistant-bot/blob/main/llm2.png">
+
+<img src="https://github.com/Aar-udinus/travel-assistant-bot/blob/main/llm3.png">
 
 Travel Assistant Bot adalah aplikasi chatbot cerdas berbasis Google Gemini API yang dirancang untuk membantu pengguna merencanakan perjalanan secara cepat, akurat, dan modern.
 Dilengkapi dengan antarmuka super elegan, preset pertanyaan, penyimpan rencana perjalanan, dan dukungan upload gambar (multimodal).
@@ -76,5 +81,7 @@ Instalasi & Menjalankan
     2.Upload gambar ke Gemini API
     3.Mengirim prompt + gambar ke model
     4.Mendapat jawaban berdasarkan analisis visual + konteks teks
+
+
 
 
